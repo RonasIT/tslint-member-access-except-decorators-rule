@@ -1,0 +1,1 @@
+# tslint-member-access-except-decorators-rule
